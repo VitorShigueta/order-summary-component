@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/VitorShigueta/order-summary-component)
-- Live Site URL: [Site](https://your-live-site-url.com)
+- Live Site URL: [Site](https://64bad5314ada0300a954cc32--keen-kataifi-8a6583.netlify.app/)
 
 ## My process
 
